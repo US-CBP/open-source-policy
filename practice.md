@@ -4,7 +4,7 @@ This document is meant to give specific team guidance on putting our [open sourc
 
 * CBP releases software into the [international public domain](#public-domain).
 * All team members should feel empowered to contribute back to outside open source projects.
-* There are [narrow, documented exceptions](#exceptions) where source code may be delayed or withheld.
+* There are [narrow, documented exceptions](#exceptions) where source code may be relased to GitHub.
 
 CBP team members should work with the strong presumption that all of their code under the US-CBP organization on GitHub will be public, throughout and after development.
 
@@ -93,4 +93,4 @@ If you think something will benefit CBP and is worth the time, then that's valua
 
 #### Exceptions
 
-CBP currently has several, mission-critical projects for which we will not ever release the source code.
+CBP currently has several, mission-critical projects for which we will not ever release the source code. If source code contains any mission-critical, proprietary, sensitive, or an organization outside CBP owns the copyrights, DO NOT release to GitHub.
