@@ -1,8 +1,6 @@
 # CBP Open Source Policy
 
-This repository contains the official [Open Source Policy](policy.md) of U.S. Customs and Border Protection (http://www.cbp.gov).
-
-**[Read CBP's open source policy.](policy.md)**
+This repository contains the official Open Source Policy of U.S. Customs and Border Protection (http://www.cbp.gov).
 
 ### CBP Team Guidance
 
